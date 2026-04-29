@@ -95,9 +95,7 @@ const GeneralGrades = () => {
   };
 
   const onGenerateStudentPPT = async (data) => {
-    const response = await fetch(
-      '../../../../templates/general_grades_report.pptx',
-    );
+    const response = await fetch('/templates/general_grades_report.pptx');
     const content = await response.arrayBuffer();
 
     const zip = new PizZip(content);
