@@ -5,6 +5,7 @@ import AdultGrades from './components/Grades/AdutlGrades/AdultGrades';
 import GeneralGrades from './components/Grades/GeneralGrades/GeneralGrades';
 import Layout from './Layout/Layout';
 import About from './components/About/About';
+import NotFound from './components/NotFound/NotFound';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="about-me" element={<About />} />
           <Route path="contact" />
         </Route>
+        <Route path="*" element={<NotFound />} />
       </Routes>
     </>
   );

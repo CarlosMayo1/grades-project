@@ -229,6 +229,12 @@ textarea {
   align-items: center;
 }
 
+.not-found {
+  color: #a9a6a6eb;
+  text-align: center;
+  font-size: 25px;
+}
+
 /* MEDIA QUERIES */
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
