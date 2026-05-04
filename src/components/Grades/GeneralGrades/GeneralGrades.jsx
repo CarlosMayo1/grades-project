@@ -54,7 +54,7 @@ const GeneralGrades = () => {
 
   const onCalculateGrades = (name, value) => {
     const currentGrades = { ...grades };
-    currentGrades[name] = Math.floor(value * GENERAL_GRADES[name]);
+    currentGrades[name] = value * GENERAL_GRADES[name];
 
     let fGrade = 0;
 
@@ -63,7 +63,7 @@ const GeneralGrades = () => {
     }
 
     setGrades(currentGrades);
-    setFinalGrade(fGrade);
+    setFinalGrade(Math.floor(fGrade));
     determineFinalGradeColor(fGrade);
   };
 
