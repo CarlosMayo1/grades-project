@@ -32,6 +32,16 @@ export const GENERAL_GRADES = {
   final_exam: 0.2,
 };
 
+export const TEENS_GRADES = {
+  platform_01: 0.1,
+  participation_01: 0.1,
+  midterm: 0.2,
+  project: 0.2,
+  platform_02: 0.1,
+  participation_02: 0.1,
+  final_exam: 0.2,
+};
+
 export const customDate = (date) => {
   const splittedDate = date.split('-');
   const year = splittedDate[0];

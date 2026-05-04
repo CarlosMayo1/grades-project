@@ -27,6 +27,9 @@ const Navbar = () => {
               <Link to="adult-grades">Adult grades</Link>
             </li>
             <li>
+              <Link to="teens-grades">Teens grades</Link>
+            </li>
+            <li>
               <Link to="about-me">About me</Link>
             </li>
           </ul>
@@ -41,6 +44,9 @@ const Navbar = () => {
         </li>
         <li>
           <Link to="adult-grades">Adult grades</Link>
+        </li>
+        <li>
+          <Link to="teens-grades">Teens grades</Link>
         </li>
         <li>
           <Link to="about-me">About me</Link>
