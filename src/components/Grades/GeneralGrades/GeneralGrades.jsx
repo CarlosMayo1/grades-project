@@ -252,8 +252,8 @@ const GeneralGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negative numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,
@@ -279,8 +279,8 @@ const GeneralGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negarive numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,
@@ -308,8 +308,8 @@ const GeneralGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negarive numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,
@@ -335,8 +335,8 @@ const GeneralGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negarive numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,
@@ -364,8 +364,8 @@ const GeneralGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negative numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,
@@ -391,8 +391,8 @@ const GeneralGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negarive numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,
@@ -419,8 +419,8 @@ const GeneralGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negarive numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,

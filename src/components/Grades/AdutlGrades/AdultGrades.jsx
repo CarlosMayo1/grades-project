@@ -259,8 +259,8 @@ const AdultGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negarive numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,
@@ -286,8 +286,8 @@ const AdultGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negarive numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,
@@ -313,8 +313,8 @@ const AdultGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negarive numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,
@@ -342,8 +342,8 @@ const AdultGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negarive numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,
@@ -369,8 +369,8 @@ const AdultGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negarive numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,
@@ -396,8 +396,8 @@ const AdultGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negarive numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,
@@ -425,8 +425,8 @@ const AdultGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negarive numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,
@@ -452,8 +452,8 @@ const AdultGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negarive numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,
@@ -479,8 +479,8 @@ const AdultGrades = () => {
                     message: 'This field is required',
                   },
                   min: {
-                    value: 1,
-                    message: '0 or negarive numbers are not allowed',
+                    value: 0,
+                    message: 'negative numbers are not allowed',
                   },
                   max: {
                     value: 100,
